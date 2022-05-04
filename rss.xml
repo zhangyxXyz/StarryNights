@@ -8,7 +8,7 @@
         <author>
           <name>yx.zhang</name>
         </author>
-        <description>编程笔记 &amp; diy随想</description>
+        <description>编程笔记 &amp; 随想</description>
         <language>zh-CN</language>
         <pubDate>Wed, 04 May 2022 18:07:10 +0800</pubDate>
         <lastBuildDate>Wed, 04 May 2022 18:07:10 +0800</lastBuildDate>
@@ -23,7 +23,7 @@
             <link>https://onlyzyx.com/posts/18163.html</link>
             <category term="Hexo" scheme="https://onlyzyx.com/tags/Hexo/" />
             <pubDate>Wed, 04 May 2022 18:07:10 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;test.jpg&#34; alt=&#34;测试图片&#34; /&gt;&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;/posts/18163/test.jpg&#34; alt=&#34;测试图片&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
