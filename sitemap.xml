@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onlyzyx.com/friend-links/index.html</loc>
+    
+    <lastmod>2022-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/posts/18163.html</loc>
     
     <lastmod>2022-05-05</lastmod>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://onlyzyx.com/</loc>
-    <lastmod>2022-05-05</lastmod>
+    <lastmod>2022-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,7 +39,7 @@
   
   <url>
     <loc>https://onlyzyx.com/tags/Hexo/</loc>
-    <lastmod>2022-05-05</lastmod>
+    <lastmod>2022-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
