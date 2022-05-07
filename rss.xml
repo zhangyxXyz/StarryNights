@@ -19,9 +19,10 @@
         <category term="游戏开发" />
         <item>
             <guid isPermalink="true">https://onlyzyx.com/posts/33962.html</guid>
-            <title>sublime配置Lua运行环境</title>
+            <title>Sublime配置Lua运行环境</title>
             <link>https://onlyzyx.com/posts/33962.html</link>
-            <category term="sublime配置,lua" scheme="https://onlyzyx.com/tags/sublime%E9%85%8D%E7%BD%AE-lua/" />
+            <category term="Lua" scheme="https://onlyzyx.com/tags/Lua/" />
+            <category term="Sublime配置" scheme="https://onlyzyx.com/tags/Sublime%E9%85%8D%E7%BD%AE/" />
             <pubDate>Sat, 07 May 2022 10:50:03 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;lua环境配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lua环境配置&#34;&gt;#&lt;/a&gt; Lua 环境配置&lt;/h1&gt;
  ]]></description>
