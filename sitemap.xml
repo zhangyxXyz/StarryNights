@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onlyzyx.com/posts/18163.html</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/static/index.html</loc>
     
     <lastmod>2022-05-07</lastmod>
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/18163.html</loc>
-    
-    <lastmod>2022-05-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/posts/16107.html</loc>
     
     <lastmod>2022-05-04</lastmod>
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://onlyzyx.com/</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,28 +84,28 @@
   
   <url>
     <loc>https://onlyzyx.com/tags/Hexo/</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Lua/</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Sublime%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-05-07</lastmod>
+    <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
