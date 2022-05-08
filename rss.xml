@@ -21,7 +21,9 @@
             <guid isPermalink="true">https://onlyzyx.com/posts/33962.html</guid>
             <title>Sublime配置Lua运行环境</title>
             <link>https://onlyzyx.com/posts/33962.html</link>
+            <category term="Sublime" scheme="https://onlyzyx.com/categories/Sublime/" />
             <category term="Lua" scheme="https://onlyzyx.com/tags/Lua/" />
+            <category term="Sublime" scheme="https://onlyzyx.com/tags/Sublime/" />
             <category term="Sublime配置" scheme="https://onlyzyx.com/tags/Sublime%E9%85%8D%E7%BD%AE/" />
             <pubDate>Sat, 07 May 2022 10:50:03 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;lua环境配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lua环境配置&#34;&gt;#&lt;/a&gt; Lua 环境配置&lt;/h1&gt;
@@ -31,6 +33,7 @@
             <guid isPermalink="true">https://onlyzyx.com/posts/42926.html</guid>
             <title>为什么程序员都是夜猫子？</title>
             <link>https://onlyzyx.com/posts/42926.html</link>
+            <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Note/" />
             <category term="随笔" scheme="https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/" />
             <pubDate>Sat, 07 May 2022 03:44:09 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;一种很流行的说法是，程序员是把 &lt;span class=&#34;pink&#34;&gt;咖啡因&lt;/span&gt; 转化成 &lt;span class=&#34;pink&#34;&gt;程序代码&lt;/span&gt; 的机器。&lt;/p&gt;
@@ -93,6 +96,7 @@
             <guid isPermalink="true">https://onlyzyx.com/posts/16107.html</guid>
             <title>Hello World</title>
             <link>https://onlyzyx.com/posts/16107.html</link>
+            <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Note/" />
             <pubDate>Wed, 04 May 2022 03:56:10 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
