@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://onlyzyx.com/posts/42926.html</loc>
+    <loc>https://onlyzyx.com/posts/33962.html</loc>
     
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,24 @@
   
   <url>
     <loc>https://onlyzyx.com/statistics/index.html</loc>
+    
+    <lastmod>2022-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/friend-circle/index.html</loc>
+    
+    <lastmod>2022-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/posts/42926.html</loc>
     
     <lastmod>2022-05-10</lastmod>
     
@@ -32,15 +50,6 @@
     <loc>https://onlyzyx.com/posts/16107.html</loc>
     
     <lastmod>2022-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/posts/33962.html</loc>
-    
-    <lastmod>2022-05-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://onlyzyx.com/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,42 +111,42 @@
   
   <url>
     <loc>https://onlyzyx.com/tags/Secret/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Hexo/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Lua/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Sublime/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Sublime%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -146,14 +155,14 @@
   
   <url>
     <loc>https://onlyzyx.com/categories/Note/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/categories/Sublime/</loc>
-    <lastmod>2022-05-10</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
