@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onlyzyx.com/posts/10850.html</loc>
+    
+    <lastmod>2022-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/posts/33962.html</loc>
     
     <lastmod>2022-05-15</lastmod>
@@ -117,7 +126,21 @@
   </url>
   
   <url>
+    <loc>https://onlyzyx.com/tags/MathJax/</loc>
+    <lastmod>2022-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/tags/Hexo/</loc>
+    <lastmod>2022-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -144,17 +167,17 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://onlyzyx.com/categories/Note/</loc>
     <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://onlyzyx.com/categories/Note/</loc>
+    <loc>https://onlyzyx.com/categories/Mathjax/</loc>
     <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

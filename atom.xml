@@ -211,4 +211,15 @@
         <category term="Sublime配置" scheme="https://onlyzyx.com/tags/Sublime%E9%85%8D%E7%BD%AE/" />
         <updated>2017-05-19T02:50:03.000Z</updated>
     </entry>
+    <entry>
+        <id>https://onlyzyx.com/posts/10850.html</id>
+        <title>MathJax基本语法</title>
+        <link rel="alternate" href="https://onlyzyx.com/posts/10850.html"/>
+        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&#34;mathjax简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mathjax简介&#34;&gt;#&lt;/a&gt; MathJax 简介&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;MathJax&lt;/code&gt;  是一款运行在浏览器中的开源的数学符号渲染引擎，使用 MathJax 可以方便的在浏览器中显示数学公式，不需要使用图片。目前，MathJax 可以解析 Latex、MathML 和 ASCIIMathML 的标记语言。 本文接下来会讲述 MathJax 的基础用法（主要基于 Latex 语法），但不涉及 MathJax 的安装及配置。&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content>
+        <category term="Mathjax" scheme="https://onlyzyx.com/categories/Mathjax/" />
+        <category term="MathJax" scheme="https://onlyzyx.com/tags/MathJax/" />
+        <updated>2016-09-30T12:54:10.000Z</updated>
+    </entry>
 </feed>
