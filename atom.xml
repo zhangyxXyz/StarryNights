@@ -2742,9 +2742,10 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/body&gt;&lt;/html&gt;</content>
-        <category term="Latex" scheme="https://onlyzyx.com/categories/Latex/" />
-        <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Latex/Note/" />
-        <category term="Latex,MathJax" scheme="https://onlyzyx.com/tags/Latex-MathJax/" />
+        <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Note/" />
+        <category term="Latex" scheme="https://onlyzyx.com/categories/Note/Latex/" />
+        <category term="Latex" scheme="https://onlyzyx.com/tags/Latex/" />
+        <category term="MathJax" scheme="https://onlyzyx.com/tags/MathJax/" />
         <updated>2016-09-30T12:54:10.000Z</updated>
     </entry>
 </feed>

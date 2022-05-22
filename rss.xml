@@ -218,9 +218,10 @@
             <guid isPermalink="true">https://onlyzyx.com/posts/10850.html</guid>
             <title>Latex基本语法</title>
             <link>https://onlyzyx.com/posts/10850.html</link>
-            <category term="Latex" scheme="https://onlyzyx.com/categories/Latex/" />
-            <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Latex/Note/" />
-            <category term="Latex,MathJax" scheme="https://onlyzyx.com/tags/Latex-MathJax/" />
+            <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Note/" />
+            <category term="Latex" scheme="https://onlyzyx.com/categories/Note/Latex/" />
+            <category term="Latex" scheme="https://onlyzyx.com/tags/Latex/" />
+            <category term="MathJax" scheme="https://onlyzyx.com/tags/MathJax/" />
             <pubDate>Fri, 30 Sep 2016 20:54:10 +0800</pubDate>
             <description><![CDATA[ &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&#34;latex简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#latex简介&#34;&gt;#&lt;/a&gt; Latex 简介&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;Latex&lt;/code&gt;  是一种文件生成系统，它生成纯文本文件，后缀名为 &lt;code&gt;.tex&lt;/code&gt; 。它不像  &lt;code&gt;Word&lt;/code&gt;  等软件编写文件一样所见即所得，而是用一定的语法或者标记符号来组织内容。 &lt;code&gt;Latex&lt;/code&gt;  在学术写作中被广泛使用，特别是像数学和计算机这样的学科。 &lt;code&gt;Latex&lt;/code&gt;  可以让你忘记格式，而专注于内容。&lt;/p&gt;
