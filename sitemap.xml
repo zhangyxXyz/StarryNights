@@ -13,7 +13,7 @@
   <url>
     <loc>https://onlyzyx.com/posts/33962.html</loc>
     
-    <lastmod>2022-05-15</lastmod>
+    <lastmod>2022-05-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -133,7 +133,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/Latex/</loc>
+    <loc>https://onlyzyx.com/tags/Latex-MathJax/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -185,6 +185,13 @@
   
   <url>
     <loc>https://onlyzyx.com/categories/Sublime/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/Latex/Note/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
