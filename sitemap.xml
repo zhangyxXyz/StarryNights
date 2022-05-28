@@ -138,6 +138,13 @@
   </url>
   
   <url>
+    <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/tags/Lua/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,13 +165,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -175,14 +175,14 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/categories/Note/Latex/</loc>
+    <loc>https://onlyzyx.com/categories/Sublime/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/categories/Sublime/</loc>
+    <loc>https://onlyzyx.com/categories/Note/Latex/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
