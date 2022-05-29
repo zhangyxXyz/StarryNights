@@ -5698,7 +5698,7 @@ meow@^3.7.0:
     object-assign "^4.0.1"
     read-pkg-up "^1.0.1"
     redent "^1.0.0"
-    trim-newlines "^1.0.0"
+    trim-newlines "^4.0.2"
 
 merge-descriptors@1.0.1:
   version "1.0.1"
@@ -8691,8 +8691,8 @@ tree-kill@^1.2.2:
   resolved "https://registry.npm.taobao.org/tree-kill/download/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
   integrity sha1-TKCakJLIi3OnzcXooBtQeweQoMw=
 
-trim-newlines@^1.0.0:
-  version "1.0.0"
+trim-newlines@^4.0.2:
+  version "4.0.2"
   resolved "https://registry.npm.taobao.org/trim-newlines/download/trim-newlines-1.0.0.tgz#5887966bb582a4503a41eb524f7d35011815a613"
   integrity sha1-WIeWa7WCpFA6QetST301ARgVphM=
 
