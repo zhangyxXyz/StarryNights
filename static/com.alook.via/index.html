@@ -506,10 +506,11 @@ body {
 
 
 <div class="box">
-<a href="http://tieba.baidu.com/?page=like"></a>
-<p><img class="icon" src="./img/贴吧ba.png" ></p>
+<a href="https://tieba.baidu.com/index.html?page=like"></a>
+<p><img class="icon" src="img/贴吧ba.png" ></p>
 <p class="url">贴吧</p>
 </div>
+
 
 
 <div class="box">
@@ -544,7 +545,7 @@ body {
 </div>
 
 <div class="box">
-<a href="http://zhihu.com"></a>
+<a href="https://zhihu.com"></a>
 <p><img class="icon" src="./img/zhihu.png" ></p>
 <p class="url">知乎</p>
 </div>
@@ -580,15 +581,14 @@ body {
 
 
 <div class="box">
-<a href="http://www.xiashu.cc/"></a>
-<p><img class="icon" src="./img/书架.png" ></p>
-<p class="url">小说</p>
+<a href="https://www.qidian.com/rank/"></a>
+<p><img class="icon" src="img/书架.png" ></p>
+<p class="url">起点</p>
 </div>
 
-
 <div class="box">
-<a href="http://wangpan.baidu.com/wap/home"></a>
-<p><img class="icon" src="./img/百度云.png" ></p>
+<a href="https://wangpan.baidu.com/wap/home"></a>
+<p><img class="icon" src="img/百度云.png" ></p>
 <p class="url">百度云</p>
 </div>
 
@@ -607,7 +607,7 @@ body {
 
 
 <div id="yiyan">
-<div class="shuxing"><script type="text/javascript" src="http://open.iciba.com/ds_open.php?id=53968&name=%E7%B9%81%E5%A4%9C&auth=E796BB4077A6DC10AA32B0D689213EEC" charset="utf-8"></script>
+<div class="shuxing"><script type="text/javascript" src="https://open.iciba.com/ds_open.php?id=53968&name=%E7%B9%81%E5%A4%9C&auth=E796BB4077A6DC10AA32B0D689213EEC" charset="utf-8"></script>
 </div>
 
 <!--第三方网站每日一句api
@@ -638,7 +638,7 @@ function get_suggest() {
 	}
 	var script = document.createElement('script');
 	script.type = 'text/javascript';
-	script.src = 'http://sugs.m.sm.cn/web?t=w&uc_param_str=dnnwnt&scheme=http&fr=android&bid=1&q=' + encodeURIComponent(kw) + '&_=' + new Date().getTime() + '&callback=jsonp3';
+	script.src = 'https://sugs.m.sm.cn/web?t=w&uc_param_str=dnnwnt&scheme=http&fr=android&bid=1&q=' + encodeURIComponent(kw) + '&_=' + new Date().getTime() + '&callback=jsonp3';
 	var head = document.querySelector('head');
 	script.onload = function() {
       head.removeChild(script);
@@ -674,7 +674,7 @@ function clear_seach() {
 }
 
 
-function search(){if(document.getElementById("search_input").value != ""){window.location.href = "http://m.baidu.com/s?ie=utf-8&rn=30&tn=baiduhome_pg&oq=%E5%BC%A0%E7%B1%BD%E6%B2%90&rsv_enter=0&wd=" + document.getElementById("search_input").value;document.getElementById("search_input").value = "";}return false;}
+function search(){if(document.getElementById("search_input").value != ""){window.location.href = "https://m.baidu.com/s?ie=utf-8&rn=30&tn=baiduhome_pg&oq=%E5%BC%A0%E7%B1%BD%E6%B2%90&rsv_enter=0&wd=" + document.getElementById("search_input").value;document.getElementById("search_input").value = "";}return false;}
 
 document.getElementById('suglist').addEventListener('click', function(e) {
 	var input = document.getElementById('search_input');
