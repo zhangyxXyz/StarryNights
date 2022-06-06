@@ -3537,7 +3537,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;抽象化&lt;/strong&gt;:&lt;br&gt;
 &lt;span class=&#34;label primary&#34;&gt; 抽象化就是忽略一些信息，把不同的实体当作同样的实体对待。在面向对象中，将对象的共同性质抽取出来形成类的过程即为抽象化的过程。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;抽象化&lt;/strong&gt;:&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;实现化&lt;/strong&gt;:&lt;br&gt;
 &lt;span class=&#34;label primary&#34;&gt; 针对抽象化给出的具体实现，就是实现化，抽象化与实现化是一对互逆的概念，实现化产生的对象比抽象化更具体，是对抽象化事物的进一步具体化的产物。&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;脱耦&lt;/strong&gt;:&lt;br&gt;
 &lt;span class=&#34;label primary&#34;&gt; 脱耦就是将抽象化和实现化之间的耦合解脱开，或者说是将它们之间的强关联改换成弱关联，将两个角色之间的继承关系改为关联关系。桥接模式中的所谓脱耦，就是指在一个软件系统的抽象化和实现化之间使用关联关系（组合或者聚合关系）而不是继承关系，从而使两者可以相对独立地变化，这就是桥接模式的用意。&lt;/span&gt;&lt;/p&gt;
@@ -3561,7 +3561,7 @@ Draw a Rectangle,this shape&#39;s color is Red.
 Draw a Rectangle,this shape&#39;s color is Green.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;样例代码下载地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#样例代码下载地址&#34;&gt;#&lt;/a&gt; 样例代码下载地址&lt;/h2&gt;
-&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;GitHub&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvQnJpZGdlUGF0dGVybi8=&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/github.png&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;GitHub&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvQnJpZGdlUGF0dGVybi8=&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/github.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvQnJpZGdlUGF0dGVybi8=&#34;&gt;GitHub&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;桥接模式(Bridge Pattern)示例代码&lt;/p&gt;
@@ -3645,7 +3645,7 @@ Bicycle is routing means of transportation!
 Train is routing means of transportation!
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;样例代码下载地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#样例代码下载地址&#34;&gt;#&lt;/a&gt; 样例代码下载地址&lt;/h2&gt;
-&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;GitHub&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvU3RyYXRlZ3lQYXR0ZXJuLw==&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/github.png&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;GitHub&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvU3RyYXRlZ3lQYXR0ZXJuLw==&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/github.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvU3RyYXRlZ3lQYXR0ZXJuLw==&#34;&gt;GitHub&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;策略模式(Strategy Pattern)示例代码&lt;/p&gt;
@@ -3701,7 +3701,7 @@ Playing ape file. Name:my heart will go on.ape
 Invalid audio. vlc format not supported
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;样例代码下载地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#样例代码下载地址&#34;&gt;#&lt;/a&gt; 样例代码下载地址&lt;/h2&gt;
-&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;GitHub&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvQWRhcHRlclBhdHRlcm4v&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/github.png&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;GitHub&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvQWRhcHRlclBhdHRlcm4v&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/github.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW5neXhYeXovRGVzaWduUGF0dGVybnMvdHJlZS9tYXN0ZXIvQWRhcHRlclBhdHRlcm4v&#34;&gt;GitHub&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;适配器模式(Adapter Pattern)示例代码&lt;/p&gt;
