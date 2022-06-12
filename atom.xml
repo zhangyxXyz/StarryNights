@@ -73,33 +73,11 @@
         <updated>2022-05-06T19:44:09.000Z</updated>
     </entry>
     <entry>
-        <id>https://onlyzyx.com/posts/18163.html</id>
+        <id>https://onlyzyx.com/posts/16108.html</id>
         <title>Hexo构建备忘</title>
-        <link rel="alternate" href="https://onlyzyx.com/posts/18163.html"/>
-        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&#34;hexo构建&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo构建&#34;&gt;#&lt;/a&gt; Hexo 构建&lt;/h2&gt;
-&lt;p&gt;新建 gitpage 仓库&lt;/p&gt;
-&lt;h2 id=&#34;图案列表-no1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图案列表-no1&#34;&gt;#&lt;/a&gt; 图案列表 No.1&lt;/h2&gt;
-&lt;p class=&#34;gallery&#34;&gt;&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclfdu6exj20zk0m87hw.jpg&#34; alt=&#34;&#34; title=&#34;这里是 title&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclflwv2aj20zk0m84qp.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclg5ms2rj20zk0m8u0x.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclhnx9glj20zk0m8npd.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;图案列表-no2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图案列表-no2&#34;&gt;#&lt;/a&gt; 图案列表 No.2&lt;/h2&gt;
-&lt;p class=&#34;gallery&#34; data-height=&#34;120&#34;&gt;&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicitht3xtj20zk0m8k5v.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1giclil3m4ej20zk0m8tn8.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gicljgocqbj20zk0m8e81.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
-&lt;img data-src=&#34;https://tva3.sinaimg.cn/large/6833939bly1gipetfk5zwj20zk0m8e81.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;/body&gt;&lt;/html&gt;</content>
-        <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Note/" />
-        <category term="Hexo" scheme="https://onlyzyx.com/categories/Note/Hexo/" />
-        <category term="Hexo" scheme="https://onlyzyx.com/tags/Hexo/" />
-        <updated>2022-05-04T10:07:10.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://onlyzyx.com/posts/16107.html</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="https://onlyzyx.com/posts/16107.html"/>
+        <link rel="alternate" href="https://onlyzyx.com/posts/16108.html"/>
         <content type="html">&lt;div class=&#34;hbe hbe-container&#34; id=&#34;hexo-blog-encrypt&#34; data-wpm=&#34;抱歉，您输入的密码错误，请检查后重新输入。&#34; data-whm=&#34;抱歉, 当前文章无法完成校验, 不过您还是可以看看解密后的内容。&#34;&gt;
-  &lt;script id=&#34;hbeData&#34; type=&#34;hbeData&#34; data-hmacdigest=&#34;41e2cb58a0142cbfae3c6e1b4a79d032b531473adf4713424daa8dc58ffc2736&#34;&gt;4630436162ade97ba2718b7d0c4b3b63433b3a047a2b98afd326b7b25828ddc7e8a26f306bd28f1d30317388c0646d8b98f676d027b6122cab2746b87f10826d59df7521705e641420ee3b3dec9ef489bc1bf4be737e996e5605067578df7d81530055e19efa0e43f5fab7f03e2e8f1d18d98bb11a6453b9ec6f5fdb0d41dfcf1a1ed9cbea9f30ecf4edc1aab06f0ad1c461a1943eb8a89d2f15d4fdddfa87e492f519a56c44bd9fdea7ad9586a22cc6f95e8dc04766361b722eb909390cc326169c68cce5c04f77e3e167c6d3510f56d7cca640935963b5081d9b5dc32e0de34c413767e7f7c0f3b4d8230af3b816851e524c4d8f8e01ded2dbed2e5e9058abd4f931112c325d57a3d9ed32d8125cec88fc067880626f9627912a0451646f089593029ea793e87f1e0b78138816f5c37261142342037b5a445f5088297e1f26c88f09bf7d84c0715ec108f6b4700a31b35203cb39732bf3a3aa022baf13971d7206dd368b0ca5ad549a21ec47f4c89bd7eaf87c66c3c4385f73db0a9dd3eb2b16fd14b13147abaacc4c75657a818f647960a50958f576b3ec587cadafcd5f2a176c9472bf28fed4a32ff8b948c4acebf840f71e74d69e79f7f3a5f9701720aa512d1e653f4fe6a9c9176a8db91de495955a1bf370892c390ae52ee46a817a28f6b6e019dad8e530040d0176fc86a29f9058149d9ffc03f1288250b1bfeb80231158566836509ac69f974b64c54f2a7c8e941782be02cad7da38ae277d254a7221f0b7c9cbf0b0b0c553ea85049d438f1cbfca2199cc17cc54e05d22241a70b9c98615109e56b8811e7942778d9f75f49128a13a2e44d5499e06df3a4e3f821b9478dc7a1035aef82e15c01fe189cc272be010d3927ff27208f9911c015ceee9c7085c5ab7fbec7d984f165d49867361a7533ef93f7071953b302562995866cc4efe6943d0b34a10e32765034e3eaa83cdd41ff29c4b9e7678c5ff995524810b2f1aef0aee201ba8fc3dd93e24596f97b2955169b3e884dabdcb6f801bb51bcf1ab4ad7130faae8fbd58d71c646e8638587636f569a902133e7372cb84cfac8e7ddb9bae752710c331fd15e614f3d76b6d2d084c36c55a5970e22ca2426b88175ec11eb3c7d1a174558153e40ca3257604d2dbe213e272b36fc6da3f3205ba4e57643210a3eaa1c3385abc39e9022d847f07a5d6cd81d9c67ace532f0beb7755cfc118376946e73a381ccafcb7294bbd858d43561d4f3edfcc20cebb62176824b8655dbd9072c06f8922a04419ec0e08f5617f3e19004c2bffdbfeab481fa9f3934c4261df3d00905c0b4d593c1813dd62feed9d4e5b3f85a2a5b4bd66e28f5599a580e9aef90583c9e269b5dfea98b785cd73377cd6af0ba6b5204a3a0b61b8da66d555efabf1b3afd83b67835da3bdd30297c131244119c6b95c9859bcc3812744bc91510a4a2dfdd6b43b4c6c472e337c4c74492e786ef08a1e60b2eb4fae1d165d4d5f269f2ffb90933875cd58372cefb53b54d853ac9415437f673b52ff9349258e4bf20f616406b69254d68ed60b0f2a7739e79a2e150957ec62e486ef6b49f397eaa2490f98a16a52ae020761f02bc59829a62f31bebb222bed724f7249140452f704140d086c2d63b6b34ebdfb1eccc01777e902d19aa048ef7d600ae066886d715409ca62fe976a80cbae920deb57cdc2cbc106876b6e97f97055003959f4dd0759afe3833341cbeaff43b6fc3463a30646e29e11e64bc8190356d4cf49f2b754be65a3a51113ea1450501f52d6a722f764bab85aedceb3d3c72477b46488a8ce23c95459a7d7f02fd49028107a641de807b92958587c91d2e2560850576de87af5aefcd96d58aad27448442b708a1ebbb2375ea354cca474965422786885dbbb667026cf62ad583932a3d68bd15958798ae0b9ef48cdcc957f486b8943c75862a6c7d81695bdfab7d0165939768670f8e5919d7c8b483544232c368cbdba8ecd9cb1e2549577b7e97136b2762e3333d3c04682e32a89f97429b1237ca49b195be6ead95dab22c8697bd5a3bd1d6bf06c62f3f0241aa45bbfc606adcf82ecef44bd2dc56db970b61da478dfaaf7a7fb4eb406b79981470272f353bda597a4afae4e4d06178de3f6c9cdc95ebb9d45a371f6074f23ab26e2f801f812f103fe25783e40c93fd57361cc105358b78733523de5b7f2b39f633172bc9e7fe977cbc25b79f29abaac91f7076fe3d864b5f0aca55b9f87b06ac43522de26aa9c22b134df384fe597e3b8373f3e389e87964bfa1512ea10534134ca16998fa8e88f95095ed144248483ee0be82bce1cc4d4ae471aa9e53d586533c53abcb8629e13bd3562df1062d3357b76a1a54cbe6af2d2e34c61fb4c571a7c39853b678d8829e0c9d3efbd40ddd6d3ae4d67a1978ed2ce4c295b4edea04f31b9ed614319dfbc5341cb65f5bcf5450ff8857aebd0cad685f6f88edad181b1b64dfa458448103aab880097afd62a5be34ca030573aac0680392622b59b42e1244d08b9ca5428e9abb572d58fd71b1e058795fd1c6e3c433c56959e77d8df5ec5fabdfc526a6f2efb3b26373b168f69fb11db4e2504b7992cf6129add6d8f4b607c4a1910790d0bba8b5648f6b0ed605e53d9c15d024a326f85e76486f6d8c0e121c111a812785139660b956f0b9d9b61b1d69dd40263d656263bf702911af7b63cbd0cb7ea9fba6cbbdad6ac2b71cae4c9a75f19414a84348fa5c3e4c3761a9b4525722507a7119d3b09b5db84ce5e88567a9c1d20df61884e1174924d7c90b131ce201d077b1d879e878bde49f78c405834425e9946d189faeffcefd5fbd170693400f73de8f181f5d59ffc41de7e7f75541e60703dd9ea2f8e91f15f11847fb662b8c360ce708f08be0152b79260b94f9c869a4b35c09698e4ceb3997a10494f637ef2365a05af9b96150196a051c856221cdbded01004db9dbea45fac12000281e171882215e34e4748d113c3f51b2d8e500a4af7d0b69de457aaf8809459df99435cf23b0878c1d2662fa3be8fb88641c1face99f688df829ce92912a652d952094ee4972a68e75fdb264654443a2b2c51c403bb5d99fc24d1d438d28eee0720b9363cf02b4832f00c926e1392aa1cecffae804197dcf515d6d1b0a5a1228db292ffb7cd8694c6ec08b22c667b6e548900c04eed6e74cd404a46dbe987b8016dca8ce497e6329eaeed6e206982164e22600cdda7ccd55ff04988db47cb54804963c746331465af6bfd69d0bfa40345546e560c8ddafbb7fe3a30970e15e266731c6532f3c5150f32b9166118879ffdbee19547&lt;/script&gt;
+  &lt;script id=&#34;hbeData&#34; type=&#34;hbeData&#34; data-hmacdigest=&#34;aace5fac04079f6923fa0f3f45d93e5fa7ae4ac856aa84f10992d3da7b941a64&#34;&gt;4630436162ade97ba2718b7d0c4b3b63433b3a047a2b98afd326b7b25828ddc7e8a26f306bd28f1d30317388c0646d8b973aea81f470308ffd7928b9d767504e32d5517e8df545836ba67a880d08dd56277bac15b05783f67c122484fc1becec1ae97c091772bb4ca4f6e689487881baa8148c2d6e970203f8df5990eaba5bc38643437cdd71f756c08a8851ff19c48359afda31e01fc531d1aa4885edead0c35b299334dc89b6ef2e606c6606f0be32c3dd3b3249dd044cee12f3e6011654cc8e36996a34c22ed23e6218c00e2ab92e930e0a85370c056daae5b4e29b734be73ce27e100255368256f946dd5d5851cefc22fc1bb1072b74d1e10fa85cde1e4bb39608f5e3b229afcfefc374cb4b3b337f68662fcb46c9b4d31c7c87f8743fc7d5fc997db2871b4f07aa7c3d84528804969c5b0c0636bb89895b34cff6ae4a4a1777c51589996eb0a9c873a1f6102d627ff1577eb8d16a8123781ca8c982918fd42c50b8074ff43ffc319743442cdf0b31b7efbbfb5ebae5f6798969f69e51c57421b94d117fa251b5046783fc74b67851637d6c11dfd3fa8142023a4651dc11a2193daafe997b188379913eab6ed7080ac11523dad7f251c0f8d345094646f0761fef2c6e6d989f7822a44fce266c0269ad0e16dfcd4c474de77d1d2447ea33fae086957844afea5accefbe34c4c667a45942a9747ba01390e9afbbb80934062aab977468a375fa4b9224947b2c72922ba54a357d1d1e6e37bdc551e4a33c25acdd9f5ebf9fb5e808ee95ef7d529fd10b0debc4d692e445a9ca1b2512fbb6f3def0394b159b8980bcbf7ed58a46f45f&lt;/script&gt;
   &lt;div class=&#34;hbe hbe-content&#34;&gt;
     &lt;div class=&#34;hbe hbe-input hbe-input-default&#34;&gt;
       &lt;input class=&#34;hbe hbe-input-field hbe-input-field-default&#34; type=&#34;password&#34; id=&#34;hbePass&#34;&gt;
@@ -111,8 +89,133 @@
 &lt;/div&gt;
 &lt;script data-pjax src=&#34;/lib/hbe.js&#34;&gt;&lt;/script&gt;&lt;link href=&#34;/css/hbe.style.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;</content>
         <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Note/" />
+        <category term="Hexo" scheme="https://onlyzyx.com/categories/Note/Hexo/" />
         <category term="Secret" scheme="https://onlyzyx.com/tags/Secret/" />
-        <updated>2022-05-03T19:56:10.347Z</updated>
+        <updated>2022-05-04T12:16:13.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://onlyzyx.com/posts/18163.html</id>
+        <title>基于GitHub Pages + Hexo搭建个人博客</title>
+        <link rel="alternate" href="https://onlyzyx.com/posts/18163.html"/>
+        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&#34;引言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引言&#34;&gt;#&lt;/a&gt; 引言&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Hexo&lt;/code&gt;  是一个快速、简洁且高效的博客框架。 &lt;code&gt;Hexo&lt;/code&gt;  使用  &lt;code&gt;Markdown&lt;/code&gt; （或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。即把用户的  &lt;code&gt;markdown&lt;/code&gt;  文件，按照指定的主题解析成静态网页。&lt;/p&gt;
+&lt;p&gt;简单点说  &lt;code&gt;Hexo&lt;/code&gt;  就是一个博客的框架，就好比盖房子需要的框架结构一样，这是博客搭建起来的基础，最后装修好 (&lt;span class=&#34;blue&#34;&gt;各种主题&lt;/span&gt;) 就完成了。&lt;/p&gt;
+&lt;h2 id=&#34;优劣对比&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#优劣对比&#34;&gt;#&lt;/a&gt; 优劣对比&lt;/h2&gt;
+&lt;p&gt;博客框架基本可以划分为 &lt;span class=&#34;blue&#34;&gt;静态博客&lt;/span&gt; 和 &lt;span class=&#34;blue&#34;&gt;动态博客&lt;/span&gt; 两个阵营，这儿主要从 &lt;span class=&#34;blue&#34;&gt;静态博客&lt;/span&gt; 和 &lt;span class=&#34;blue&#34;&gt;动态博客&lt;/span&gt; 的优劣进行对比，其他的基本属于框架本身带来的特性对比，这个到对应官网查看描述自行比对即可&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;优势&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hexo&lt;/code&gt;  是一个静态博客框架，除了其附加的易于管理，易于编辑和发布的特性之外，还具备静态网站的所有优势&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;省心：不用担心黑客入侵&lt;/li&gt;
+&lt;li&gt;省钱：占用空间小，纯  &lt;code&gt;html&lt;/code&gt;  文件，每个文件控制在几  &lt;code&gt;kb&lt;/code&gt;  以内，10000 篇内容的网站，也不过才几十  &lt;code&gt;MB&lt;/code&gt; , 随便找个免费空间丢上去就好了&lt;/li&gt;
+&lt;li&gt;速度快：页面已经存在，而不用像动态网站那样还要临时生成，所以打开速度快&lt;/li&gt;
+&lt;li&gt;搜素引擎友好：有利于搜索引擎收录，有利于网站  &lt;code&gt;SEO&lt;/code&gt;  排名优化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;劣势&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;blue&#34;&gt;静态博客&lt;/span&gt; 与之相对的就是 &lt;span class=&#34;blue&#34;&gt;动态博客&lt;/span&gt;，那自然是缺少动态博客动的部分&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;缺少机动性：常见功能评论，其他页面动态元素 (每日一句) 等等，在静态博客上都需要  &lt;code&gt;js&lt;/code&gt;  配合其他服务才能实现，不如动态博客那样扩展简单&lt;/li&gt;
+&lt;li&gt;维护成本高：由于页面都是预生成的，设计到框架底层或者页面增加通用元素，所有页面需要重新生成并发布&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;当然在云服务遍地开花，越来越成熟的框架和第三方服务面前，静态博客的劣势基本都有妥善的解决方式，那么其纯粹的优点这也是更多人开始使用静态博客的原因了，当然具体的还是看个人选择。&lt;/p&gt;
+&lt;h2 id=&#34;hexo构建&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo构建&#34;&gt;#&lt;/a&gt; Hexo 构建&lt;/h2&gt;
+&lt;p&gt;一张图简单介绍下  &lt;code&gt;Hexo&lt;/code&gt;  搭建流程&lt;/p&gt;
+&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;graph&lt;/span&gt; LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;A&lt;span class=&#34;token text string&#34;&gt;(Hexo 构建)&lt;/span&gt; &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; B&lt;span class=&#34;token text string&#34;&gt;(基础环境)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; B1&lt;span class=&#34;token text string&#34;&gt;(安装Git)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; B2&lt;span class=&#34;token text string&#34;&gt;(安装Node.js)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;A &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; C&lt;span class=&#34;token text string&#34;&gt;(安装Hexo框架)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; C1&lt;span class=&#34;token text string&#34;&gt;(npm install -g hexo-cli)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; C2&lt;span class=&#34;token text string&#34;&gt;(npm install blog)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; C3&lt;span class=&#34;token text string&#34;&gt;(cd blog)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; C4&lt;span class=&#34;token text string&#34;&gt;(npm install)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; C5&lt;span class=&#34;token text string&#34;&gt;(hexo server)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;A &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; D&lt;span class=&#34;token text string&#34;&gt;(安装Hexo主题)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    D &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; D1&lt;span class=&#34;token text string&#34;&gt;(npm i hexo theme-butterfly 或者 clone其他主题解压放置在 theme目录)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;A &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; E&lt;span class=&#34;token text string&#34;&gt;(部署到Github Pages)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    E &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; E1&lt;span class=&#34;token text string&#34;&gt;(注册github)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    E &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; E2&lt;span class=&#34;token text string&#34;&gt;(创建和用户名同名仓库)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    E &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; E3&lt;span class=&#34;token text string&#34;&gt;(安装配置Hexo Git部署插件)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    E &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; E4&lt;span class=&#34;token text string&#34;&gt;(推送Hexo博客到仓库)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    E &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; E5&lt;span class=&#34;token text string&#34;&gt;(Github Pages设置)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;A &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; F&lt;span class=&#34;token text string&#34;&gt;(自定义域名解析)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    F &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; F1&lt;span class=&#34;token text string&#34;&gt;(域名购买)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    F &lt;span class=&#34;token arrow operator&#34;&gt;--&amp;gt;&lt;/span&gt; F2&lt;span class=&#34;token text string&#34;&gt;(域名解析到Github Pages)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;基础环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础环境&#34;&gt;#&lt;/a&gt; 基础环境&lt;/h2&gt;
+&lt;h3 id=&#34;安装git&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装git&#34;&gt;#&lt;/a&gt; 安装 Git&lt;/h3&gt;
+&lt;p&gt;打开链接，点击 &lt;span class=&#34;green&#34;&gt;绿色屏幕&lt;/span&gt; 下载对应版本安装即可&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;blue&#34;&gt;Git 客户端下载链接&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXQtc2NtLmNvbS8=&#34;&gt; Click here, https://git-scm.com/&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;安装nodejs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装nodejs&#34;&gt;#&lt;/a&gt; 安装 Node.js&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows: 通过安装包 (下载链接，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ub2RlanMub3JnLw==&#34;&gt;Cliek Here!&lt;/span&gt;) 安装，或者通过  &lt;code&gt;nvs&lt;/code&gt;  或者  &lt;code&gt;nvm&lt;/code&gt;  安装。&lt;/li&gt;
+&lt;li&gt;Mac: 使用  &lt;code&gt;Homebrew&lt;/code&gt;  或  &lt;code&gt;MacPorts&lt;/code&gt;  安装。&lt;/li&gt;
+&lt;li&gt;Linux (DEB/RPM-based): 从  &lt;code&gt;NodeSource&lt;/code&gt;  安装。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其它：使用相应的软件包管理器进行安装，可以参考由  &lt;code&gt;Node.js&lt;/code&gt;  提供的指导。&lt;/p&gt;
+&lt;h2 id=&#34;安装hexo框架&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装hexo框架&#34;&gt;#&lt;/a&gt; 安装 Hexo 框架&lt;/h2&gt;
+&lt;p&gt;在基础环境搭建完毕后，即可使用  &lt;code&gt;npm&lt;/code&gt;  安装  &lt;code&gt;Hexo&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;安装过程极其简单，一行命令即可完成， &lt;code&gt;npm&lt;/code&gt;  是安装工具， &lt;code&gt;install&lt;/code&gt;  表示安装， &lt;code&gt;-g&lt;/code&gt;  表示全局安装， &lt;code&gt;hexo-cli&lt;/code&gt;  表示安装的是 hexo 框架&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; -g hexo-cli&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;初始化博客目录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初始化博客目录&#34;&gt;#&lt;/a&gt; 初始化博客目录&lt;/h3&gt;
+&lt;p&gt;新建一个存放博客的文件夹  &lt;code&gt;blogtest&lt;/code&gt;  &lt;strong&gt;(可以自定义为其他名称)&lt;/strong&gt;, 并初始化&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo init blogtest&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;安装hexo依赖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装hexo依赖&#34;&gt;#&lt;/a&gt; 安装 Hexo 依赖&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;cd&lt;/code&gt;  到  &lt;code&gt;blogtest&lt;/code&gt;  目录，执行如下命令安装依赖环境&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;hexo构建-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo构建-2&#34;&gt;#&lt;/a&gt; Hexo 构建&lt;/h3&gt;
+&lt;p&gt;这儿一般称作  &lt;code&gt;Hexo&lt;/code&gt;  三连，如下命令分别执行&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;清除博客发布目录  &lt;code&gt;public&lt;/code&gt;  (部署的静态博客其实就是这个目录下的文件)&lt;/li&gt;
+&lt;li&gt;重新生成发布目录&lt;/li&gt;
+&lt;li&gt;本地运行  &lt;code&gt;Hexo&lt;/code&gt;  服务，进行预览&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo generate &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;此时在浏览器输入  &lt;code&gt;http://localhost:4000/&lt;/code&gt;  即可对  &lt;code&gt;hexo&lt;/code&gt;  构建的博客进行预览&lt;/p&gt;
+&lt;p class=&#34;gallery&#34;&gt;&lt;img data-src=&#34;/posts/18163/HexoBuild.png&#34; alt=&#34;HexoBuild&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;/posts/18163/HexoServer.png&#34; alt=&#34;HexoServer&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;注意：有时候在浏览器输入 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xvY2FraG9zdDo0MDAw&#34;&gt;http://locakhost:4000&lt;/span&gt;, 没有出现网页，可能是因为 4000 端口被占用了，可以使用把上一步骤的命令 hexo server 改为 hexo server -p 5000, 指定服务使用 5000 端口或者其他端口就可以了。&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;安装hexo主题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装hexo主题&#34;&gt;#&lt;/a&gt; 安装 Hexo 主题&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Hexo&lt;/code&gt;  安装完成，启动服务在网页预览时，可以看到界面比较原始类，这就类似毛坯房，我们可以通过安装主题来装修这个毛坯房&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hexo&lt;/code&gt;  的主题有很多啊，使用最多的主题就是 &lt;code&gt;matery&lt;/code&gt;  主题和 &lt;code&gt;butterfly&lt;/code&gt;  主题。这两种主题各有千秋。可以先看两种主题的风格，然后做出选择，这里以 &lt;code&gt;butterfly&lt;/code&gt;  主题以例。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;万能的安装方式&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;前往主题所在的  &lt;code&gt;github&lt;/code&gt;  仓库 clone 主题文件到本地博客目录的主题文件夹下面 ( &lt;code&gt;./blogtest/themes&lt;/code&gt; )&lt;/li&gt;
+&lt;li&gt;更改博客更目录下面的配置文件  &lt;code&gt;_config.yml&lt;/code&gt; , 更改主题配置名称为目标主题名字&lt;/li&gt;
+&lt;li&gt;重新 【Hexo 三连]{.blue} 查看效果&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p class=&#34;gallery&#34;&gt;&lt;img data-src=&#34;/posts/18163/ChangeTheme.png&#34; alt=&#34;butterfly&#34;&gt;&lt;br&gt;
+&lt;img data-src=&#34;/posts/18163/ThemeButterfly.png&#34; alt=&#34;themebutterfly&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;lable warning&#34;&gt;主题的安装建议前往主题的官网，官网一般会给出比较详细的安装指南，很多主题需要一些额外的设置，安装一些额外的依赖，同时还能给出更多的定制化说明&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;部署到github-pages&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部署到github-pages&#34;&gt;#&lt;/a&gt; 部署到 Github Pages&lt;/h2&gt;
+&lt;p&gt;在上述操作完成后，我们虽然能够预览博客，但是是一个本地服务只能自己查看，所以需要将博客进行部署部署完成后供其他人访问查看。&lt;/p&gt;
+&lt;p&gt;不同于动态博客，静态博客由于其特性，很多服务商都有对应的托管服务 (重点是免费), 比如  &lt;code&gt;Github Pages&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;创建github仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建github仓库&#34;&gt;#&lt;/a&gt; 创建 Github 仓库&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在  &lt;code&gt;Github&lt;/code&gt;  新建一个仓库&lt;/li&gt;
+&lt;li&gt;仓库名必须是 &lt;code&gt;用户名.github.io&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;仓库名必须是 &lt;code&gt;用户名.github.io&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;仓库名必须是 &lt;code&gt;用户名.github.io&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;仓库必须设置为&lt;span class=&#34;blue&#34;&gt;公开&lt;/span&gt;，因为私有的仓库是不提供免费  &lt;code&gt;Page&lt;/code&gt;  的功能的，需要每个月额外付费。其实也不需要设置为私有，公开就行。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;安装配置hexo-git部署插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装配置hexo-git部署插件&#34;&gt;#&lt;/a&gt; 安装配置 Hexo Git 部署插件&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; hexo-deployer-git --save&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;注意这儿  &lt;code&gt;--save&lt;/code&gt;  是保存包配置到 博客目录下  &lt;code&gt;package.json&lt;/code&gt;  文件，当你需要多设备编辑自己的博客，通过 git 管理博客配置，在新的机器上  &lt;code&gt;check&lt;/code&gt;  直接  &lt;code&gt;npm install&lt;/code&gt; , 就不用重新配置了&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;编辑配置文件&lt;/strong&gt;  &lt;code&gt;_config.yml&lt;/code&gt; , &lt;strong&gt;配置上传计划&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;拷贝上一步创建仓库的地址&lt;/li&gt;
+&lt;li&gt;配置  &lt;code&gt;_config.yml&lt;/code&gt; , 新增如下配置&lt;br&gt;
+&lt;img data-src=&#34;/posts/18163/GitDeployer.png&#34; alt=&#34;GitDeployer&#34; width=&#34;100%&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;推送hexo博客到仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推送hexo博客到仓库&#34;&gt;#&lt;/a&gt; 推送 Hexo 博客到仓库&lt;/h3&gt;
+&lt;p&gt;在三连后追加如下命令，推送 Hexo 博客到远程仓库&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo deployer&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 发布三连&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo generate &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo deployer&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;github-pages设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github-pages设置&#34;&gt;#&lt;/a&gt; Github Pages 设置&lt;/h3&gt;
+&lt;p&gt;选择仓库的  &lt;code&gt;Settings&lt;/code&gt;  --&amp;gt;  &lt;code&gt;Pages&lt;/code&gt; , 按照下图设置即可，完成后使用  &lt;code&gt;Github用户名.github.io&lt;/code&gt;  即可访问自己的博客了&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/posts/18163/GithubPages.png&#34; alt=&#34;GitHubPages&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;自定义域名解析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自定义域名解析&#34;&gt;#&lt;/a&gt; 自定义域名解析&lt;/h2&gt;
+&lt;h3 id=&#34;域名购买&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名购买&#34;&gt;#&lt;/a&gt; 域名购买&lt;/h3&gt;
+&lt;p&gt;国内推荐 &lt;span class=&#34;blue&#34;&gt;腾讯云&lt;/span&gt; 或者 &lt;span class=&#34;blue&#34;&gt;阿里云&lt;/span&gt; 这样的大厂购买，如果不想进行备案也可以选择在国外购买 (这儿就不做推荐了)&lt;/p&gt;
+&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;腾讯云&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9jbG91ZC50ZW5jZW50LmNvbS8=&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/tencentcloud.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9jbG91ZC50ZW5jZW50LmNvbS8=&#34;&gt;腾讯云&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;腾讯云&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;阿里云&#34; style=&#34;--block-color:#ff4200;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxpeXVuLmNvbS8=&#34; data-background-image=&#34;https://onlyzyx.com/images/webstack/logo/aliyun.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3cuYWxpeXVuLmNvbS8=&#34;&gt;阿里云&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;阿里云&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&#34;域名解析到github-pages&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名解析到github-pages&#34;&gt;#&lt;/a&gt; 域名解析到 Github Pages&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;以腾讯云为例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;假设购买的域名为  &lt;code&gt;onlyzyx.com&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;前往  &lt;code&gt;控制台&lt;/code&gt;  --&amp;gt;   &lt;code&gt;DNS 解析 DNSPod&lt;/code&gt;  --&amp;gt;  &lt;code&gt;我的域名&lt;/code&gt;  --&amp;gt;  &lt;code&gt;onlyzyx.com&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这里一般创建两条解析&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/posts/18163/dns.png&#34; alt=&#34;dns&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;@&lt;/code&gt;  创建  &lt;code&gt;A&lt;/code&gt;  记录解析  &lt;code&gt;onlyzyx.com&lt;/code&gt;  到  &lt;code&gt;ping 你的用户名.github.io&lt;/code&gt;  显示的 &lt;code&gt;ip&lt;/code&gt;  地址&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;www&lt;/code&gt;  创建  &lt;code&gt;CNAME&lt;/code&gt;  记录解析  &lt;code&gt;onlyzyx.com&lt;/code&gt;  到  &lt;code&gt;你的用户名.github.io&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;然后前往仓库的  &lt;code&gt;Settings&lt;/code&gt;  --&amp;gt;  &lt;code&gt;Pages&lt;/code&gt; , 按照下图设置即可，完成后使用  &lt;code&gt;onlyzyx.com&lt;/code&gt;  即可访问自己的博客了 (可能稍有延迟，需要等待  &lt;code&gt;DNS&lt;/code&gt;  解析生效)&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/posts/18163/pagesdns.png&#34; alt=&#34;PagesDNS&#34; width=&#34;100%&#34;&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content>
+        <category term="二进制杂谈" scheme="https://onlyzyx.com/categories/Note/" />
+        <category term="Hexo" scheme="https://onlyzyx.com/categories/Note/Hexo/" />
+        <category term="Hexo" scheme="https://onlyzyx.com/tags/Hexo/" />
+        <updated>2022-05-01T10:06:10.000Z</updated>
     </entry>
     <entry>
         <id>https://onlyzyx.com/posts/50504.html</id>
@@ -359,7 +462,7 @@ dp[i] += dp[i - dp[i]];
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;给出一个序列实现下一个排列，它将数字重新排列成满足字典序的下一个更大的数字排列&lt;/p&gt;
 &lt;p&gt;如果下一个排列不可能 (已经是最大的了), 则必须将其重新排列为尽可能低的顺序 (即按升序排序)&lt;/p&gt;
-&lt;fieldset&gt;&lt;legend&gt;**&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;**&lt;/legend&gt;更换必须就地, 并且只使用恒定的额外内存&lt;/fieldset&gt;
+&lt;fieldset&gt;&lt;legend&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;&lt;/strong&gt;&lt;/legend&gt;更换必须就地, 并且只使用恒定的额外内存&lt;/fieldset&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -386,12 +489,12 @@ dp[i] += dp[i - dp[i]];
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;步骤解读：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;** 从后向前查找第一个相邻元素对 (i,j), 并且满足 nums [i] &amp;lt; nums [j]。** 显然，此时从 j 到 end 必然是降序。&lt;/li&gt;
-&lt;li&gt;** 在 [j,end) 中寻找一个最小的 k 使其满足 nums [i] &amp;lt; nums [k]。** 由于 [j,end) 是降序的，所以必然存在一个 k 满足上面条件；并且可以从后向前查找第一个满足 nums [i] &amp;lt; nums [k] 关系的 k, 此时的 k 必是待找的 k。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;从后向前查找第一个相邻元素对 (i,j), 并且满足 nums [i] &amp;lt; nums [j]。&lt;/strong&gt;显然，此时从 j 到 end 必然是降序。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;在 [j,end) 中寻找一个最小的 k 使其满足 nums [i] &amp;lt; nums [k]。&lt;/strong&gt;由于 [j,end) 是降序的，所以必然存在一个 k 满足上面条件；并且可以从后向前查找第一个满足 nums [i] &amp;lt; nums [k] 关系的 k, 此时的 k 必是待找的 k。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;将 i 与 k 交换&lt;/strong&gt;。此时，i 处变成比 i 大的最小元素，因为下一个全排列必须是与当前排列按照升序排序相邻的排列，故选择最小的元素替代 i, 交换后的 [j,end) 仍然满足降序排序。因为在 (k,end) 中必然小于 i, 在 [j,k) 中必然大于 k, 并且大于 i。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;逆置 [j,end)&lt;/strong&gt;, 由于此时 [j,end) 是降序的，故将其逆置，最终获得下一个全排列。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;**&lt;font color=&#34;purple&#34;&gt;Hint：&lt;/font&gt;** 如果在步骤 1 找不到符合的相邻元素对，即此时 i=begin, 则说明当前 [begin,end) 为一个降序顺序，即无下一个全排列，按照题意直接将整个排列逆置成升序&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint: &lt;/font&gt;&lt;/strong&gt;如果在步骤 1 找不到符合的相邻元素对，即此时 i=begin, 则说明当前 [begin,end) 为一个降序顺序，即无下一个全排列，按照题意直接将整个排列逆置成升序&lt;/p&gt;
 &lt;h2 id=&#34;复杂度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#复杂度&#34;&gt;#&lt;/a&gt; 复杂度&lt;/h2&gt;
 &lt;p&gt;时间复杂度  &lt;code&gt;O(n)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;空间复杂度  &lt;code&gt;O(1)&lt;/code&gt;&lt;/p&gt;
@@ -411,7 +514,7 @@ dp[i] += dp[i - dp[i]];
 &lt;p&gt;题目链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvc3Vic3RyaW5nLXdpdGgtY29uY2F0ZW5hdGlvbi1vZi1hbGwtd29yZHMv&#34;&gt;https://leetcode.com/problems/substring-with-concatenation-of-all-words/&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;给出一个长字符串 s 和一个字符串数组 words, 返回由 words 中字符串拼接成的长字符串 (假设为 x) 在 s 中的索引集合 (x 由 words 中所有元素拼接而成，每一个元素都包含且只有一个)&lt;/p&gt;
-&lt;fieldset&gt;&lt;legend&gt;**&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;**&lt;/legend&gt;------------------
+&lt;fieldset&gt;&lt;legend&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;&lt;/strong&gt;&lt;/legend&gt;------------------
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;words 中的每个字符串长度相等&lt;/p&gt;
@@ -437,7 +540,7 @@ Input:
 Output: [8]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;题解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题解&#34;&gt;#&lt;/a&gt; 题解&lt;/h2&gt;
-&lt;p&gt;这个题目其实和 LeetCode 的第三题&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvbG9uZ2VzdC1zdWJzdHJpbmctd2l0aG91dC1yZXBlYXRpbmctY2hhcmFjdGVycy9kZXNjcmlwdGlvbi8=&#34;&gt; Substring Without Repeating Characters&lt;/span&gt; 的解题思路核心是一样的，可以看看博主之前的题解 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub25seXp5eC5jb20vMDAwMzEuaHRtbC8=&#34;&gt;传送门 Click Here!&lt;/span&gt; 都是利用滑动窗口的思想。&lt;/p&gt;
+&lt;p&gt;这个题目其实和 LeetCode 的第三题&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvbG9uZ2VzdC1zdWJzdHJpbmctd2l0aG91dC1yZXBlYXRpbmctY2hhcmFjdGVycy9kZXNjcmlwdGlvbi8=&#34;&gt; Substring Without Repeating Characters&lt;/span&gt; 的解题思路核心是一样的，可以看看博主之前的题解 &lt;a href=&#34;https://onlyzyx.com/posts/22084.html&#34;&gt;传送门 Click Here!&lt;/a&gt; 都是利用滑动窗口的思想。&lt;/p&gt;
 &lt;p&gt;来分析下两道题题目的区别，第三题求的是连续的最长的不包含重复字符的子串长度，这道题目求解由 words 中字符串拼接成的长字符串 x 在 s 中的索引位置集合。转换一下，就是 s 中查找连续的一段字符串 x, 这个字符串由 words 中所有字符串拼接而成，把所有符合条件的索引记录返回即可。 所以两者本质上是一致的。&lt;/p&gt;
 &lt;p&gt;由于本题 words 中所有字符串长度一致 (假设为 len), 所以可以把 len 当做一个整体。设定滑动窗口包含的子串由 words 中单词拼接而成 (当前从某个起点开始正在查询并且不断扩展的子串), 采取如下步骤解题&lt;/p&gt;
 &lt;ol&gt;
@@ -471,7 +574,7 @@ Output: [8]
 &lt;p&gt;题目链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvZGl2aWRlLXR3by1pbnRlZ2Vycy8=&#34;&gt;https://leetcode.com/problems/divide-two-integers/&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;给定一个除数和被除数，要求不使用除法、乘法以及取模操作计算。返回两个数做除法的商 (结果取整数，就相当于两个 int 做计算)&lt;/p&gt;
-&lt;fieldset&gt;&lt;legend&gt;**&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;**&lt;/legend&gt;------------------
+&lt;fieldset&gt;&lt;legend&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;&lt;/strong&gt;&lt;/legend&gt;------------------
 1. 被除数和除数都是32位整数(int32)
 2. 除数永远不可能为0
 3. 本题运行环境只能存储int32类型, 如果计算结果溢出, 返回2^31 − 1
@@ -514,7 +617,7 @@ Output: -2
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;实现 &lt;code&gt;strStr()&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;返回 haystack 中第一次出现模式串的索引，如果模式串不是 haystack 的一部分，则返回 - 1。&lt;/p&gt;
-&lt;p&gt;**&lt;font color=&#34;purple&#34;&gt;Hint：&lt;/font&gt;** 当模式串为空的时候，返回 0 (没看到这个居然被坑了 T_T)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint: &lt;/font&gt;&lt;/strong&gt;当模式串为空的时候，返回 0 (没看到这个居然被坑了 T_T)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -546,7 +649,7 @@ Output: -1
 &lt;p&gt;题目链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvcmVtb3ZlLWVsZW1lbnQv&#34;&gt;https://leetcode.com/problems/remove-element/&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;给定数组 nums 和值 val, 在适当位置删除该值的所有实例并返回新长度。&lt;/p&gt;
-&lt;p&gt;**&lt;font color=&#34;purple&#34;&gt;Hint：&lt;/font&gt;** 不要为另一个数组分配额外的空间，必须通过使用 O (1) 额外内存修改输入数组来实现此目的。元素的顺序可以改变.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint: &lt;/font&gt;&lt;/strong&gt;不要为另一个数组分配额外的空间，必须通过使用 O (1) 额外内存修改输入数组来实现此目的。元素的顺序可以改变.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -582,7 +685,7 @@ It doesn&#39;t matter what values are set beyond the returned length.
 &lt;p&gt;题目链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvcmVtb3ZlLWR1cGxpY2F0ZXMtZnJvbS1zb3J0ZWQtYXJyYXkv&#34;&gt;https://leetcode.com/problems/remove-duplicates-from-sorted-array/&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;给定排序的数组 nums, 就地删除重复项，使每个元素只出现一次并返回新的长度。&lt;/p&gt;
-&lt;p&gt;**&lt;font color=&#34;purple&#34;&gt;Hint：&lt;/font&gt;** 不要为另一个数组分配额外的空间，必须通过使用 O (1) 额外内存修改输入数组来实现此目的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint: &lt;/font&gt;&lt;/strong&gt;不要为另一个数组分配额外的空间，必须通过使用 O (1) 额外内存修改输入数组来实现此目的。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -616,7 +719,7 @@ It doesn&#39;t matter what values are set beyond the returned length.
 &lt;p&gt;题目链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvcmV2ZXJzZS1ub2Rlcy1pbi1rLWdyb3VwLw==&#34;&gt;https://leetcode.com/problems/reverse-nodes-in-k-group/&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;给定一个链表，一次反转链表的 k 个节点 (每 k 个节点翻转一次), 最后返回修改后的列表。&lt;/p&gt;
-&lt;p&gt;**&lt;font color=&#34;purple&#34;&gt;Hint：&lt;/font&gt;**k 是正整数，并且小于或等于链表的长度。如果节点数不是 k 的倍数，那么最后的剩余节点应该保持不变。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint: &lt;/font&gt;&lt;/strong&gt;k 是正整数，并且小于或等于链表的长度。如果节点数不是 k 的倍数，那么最后的剩余节点应该保持不变。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -690,7 +793,7 @@ Output: 1-&amp;gt;1-&amp;gt;2-&amp;gt;3-&amp;gt;4-&amp;gt;4-&amp;gt;5-&amp;gt;6
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;题解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题解&#34;&gt;#&lt;/a&gt; 题解&lt;/h2&gt;
 &lt;h3 id=&#34;一句话题解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一句话题解&#34;&gt;#&lt;/a&gt; 一句话题解&lt;/h3&gt;
-&lt;p&gt;直接借用 21 题 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub25seXp5eC5jb20vMDAwNDkuaHRtbC8=&#34;&gt;Merge Two Sorted Lists&lt;/span&gt; 的双链表合并借用归并排序的思想分治合并即可&lt;/p&gt;
+&lt;p&gt;直接借用 21 题 &lt;a href=&#34;https://onlyzyx.com/posts/12203.html&#34;&gt;Merge Two Sorted Lists&lt;/a&gt; 的双链表合并借用归并排序的思想分治合并即可&lt;/p&gt;
 &lt;h2 id=&#34;复杂度&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#复杂度&#34;&gt;#&lt;/a&gt; 复杂度&lt;/h2&gt;
 &lt;p&gt;时间复杂度  &lt;code&gt;O(nlogn)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;空间复杂度  &lt;code&gt;O(1)&lt;/code&gt;&lt;/p&gt;
@@ -865,7 +968,7 @@ A solution set is:
 ]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;题解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题解&#34;&gt;#&lt;/a&gt; 题解&lt;/h2&gt;
-&lt;p&gt;这题其实是第 15 题的变种，相信看了这篇题解举一反三很容易能拿下这题，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cub25seXp5eC5jb20vMDAwNDMuaHRtbA==&#34;&gt;LeetCode:15.3Sum 题解，Click Here!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;这题其实是第 15 题的变种，相信看了这篇题解举一反三很容易能拿下这题，&lt;a href=&#34;https://onlyzyx.com/posts/29404.html&#34;&gt;LeetCode:15.3Sum 题解，Click Here!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;这道题由于是求 4 个数的目标值，所以需要滚动查询的数字由 15 题的两个变成了 3 个，很暴力的一个方法，在原来的循环上再加一层循环，内部继续再剩余数组上枚举两个数求和即可&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint:&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如何优雅的避免重复也是一个坑，外层两个循环都需要判断下当前选取的数字和上一次是不是相同的，相同的直接跳过，内层俩数字枚举时 2 也注意判断即可 (千万别忘了某一层少写了这个条件，不然美滋滋～)&lt;/p&gt;
