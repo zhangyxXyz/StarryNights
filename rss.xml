@@ -166,7 +166,7 @@
 &lt;ol&gt;
 &lt;li&gt;前往主题所在的  &lt;code&gt;github&lt;/code&gt;  仓库 clone 主题文件到本地博客目录的主题文件夹下面 ( &lt;code&gt;./blogtest/themes&lt;/code&gt; )&lt;/li&gt;
 &lt;li&gt;更改博客更目录下面的配置文件  &lt;code&gt;_config.yml&lt;/code&gt; , 更改主题配置名称为目标主题名字&lt;/li&gt;
-&lt;li&gt;重新 【Hexo 三连]{.blue} 查看效果&lt;/li&gt;
+&lt;li&gt;重新 &lt;span class=&#34;blue&#34;&gt;Hexo 三连&lt;/span&gt; 查看效果&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p class=&#34;gallery&#34;&gt;&lt;img data-src=&#34;/posts/18163/ChangeTheme.png&#34; alt=&#34;butterfly&#34;&gt;&lt;br&gt;
 &lt;img data-src=&#34;/posts/18163/ThemeButterfly.png&#34; alt=&#34;themebutterfly&#34;&gt;&lt;/p&gt;
