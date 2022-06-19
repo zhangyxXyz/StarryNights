@@ -575,9 +575,9 @@ Output: [8]
 &lt;p&gt;题目链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jb20vcHJvYmxlbXMvZGl2aWRlLXR3by1pbnRlZ2Vycy8=&#34;&gt;https://leetcode.com/problems/divide-two-integers/&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&#34;题目大意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目大意&#34;&gt;#&lt;/a&gt; 题目大意&lt;/h2&gt;
 &lt;p&gt;给定一个除数和被除数，要求不使用除法、乘法以及取模操作计算。返回两个数做除法的商 (结果取整数，就相当于两个 int 做计算)&lt;/p&gt;
-&lt;fieldset&gt;&lt;legend&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;&lt;/strong&gt;&lt;/legend&gt;------------------
-1. 被除数和除数都是32位整数(int32)
-2. 除数永远不可能为0
+&lt;fieldset&gt;&lt;legend&gt;&lt;strong&gt;&lt;font color=&#34;purple&#34;&gt;Hint&lt;/font&gt;&lt;/strong&gt;&lt;/legend&gt;
+1. 被除数和除数都是32位整数(int32)&lt;br&gt;
+2. 除数永远不可能为0&lt;br&gt;
 3. 本题运行环境只能存储int32类型, 如果计算结果溢出, 返回2^31 − 1
 &lt;/fieldset&gt;
 &lt;ul&gt;
