@@ -574,20 +574,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/C/</loc>
-    <lastmod>2023-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/tags/C-%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2023-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/tags/Latex/</loc>
     <lastmod>2023-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -616,7 +602,28 @@
   </url>
   
   <url>
+    <loc>https://onlyzyx.com/tags/C/</loc>
+    <lastmod>2023-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/C-%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2023-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/tags/Secret/</loc>
+    <lastmod>2023-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/LeetCode/</loc>
     <lastmod>2023-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -638,13 +645,6 @@
   
   <url>
     <loc>https://onlyzyx.com/tags/Lua%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2023-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/tags/LeetCode/</loc>
     <lastmod>2023-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -674,13 +674,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/categories/Cpp/</loc>
-    <lastmod>2023-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/categories/Note/</loc>
     <lastmod>2023-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -688,7 +681,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/categories/Cpp/Cpp%E5%AE%9E%E6%88%98/</loc>
+    <loc>https://onlyzyx.com/categories/Cpp/</loc>
     <lastmod>2023-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -709,13 +702,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/categories/Lua/</loc>
-    <lastmod>2023-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/categories/LeetCode/</loc>
     <lastmod>2023-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -723,7 +709,21 @@
   </url>
   
   <url>
+    <loc>https://onlyzyx.com/categories/Cpp/Cpp%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2023-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/categories/Note/Hexo/Shoka/</loc>
+    <lastmod>2023-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/Lua/</loc>
     <lastmod>2023-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
