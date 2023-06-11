@@ -609,7 +609,14 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/LeetCode/</loc>
+    <loc>https://onlyzyx.com/tags/Latex/</loc>
+    <lastmod>2023-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/MathJax/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -630,14 +637,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/Latex/</loc>
-    <lastmod>2023-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/tags/MathJax/</loc>
+    <loc>https://onlyzyx.com/tags/LeetCode/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -695,6 +695,13 @@
   </url>
   
   <url>
+    <loc>https://onlyzyx.com/categories/Lua/</loc>
+    <lastmod>2023-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/categories/LeetCode/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -709,21 +716,14 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/categories/Note/Hexo/Shoka/</loc>
-    <lastmod>2023-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/categories/Lua/</loc>
-    <lastmod>2023-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/categories/Note/Latex/</loc>
+    <lastmod>2023-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/Note/Hexo/Shoka/</loc>
     <lastmod>2023-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
