@@ -1,0 +1,14 @@
+/*! 我知道你正在试图去除这段代码，虽然我无法阻止你，但我劝你好自为之 */
+
+Bundled license information:
+
+viewerjs/dist/viewer.esm.js:
+  /*!
+   * Viewer.js v1.15.0
+   * https://fengyuanchen.github.io/viewerjs
+   *
+   * Copyright 2015-present Chen Fengyuan
+   * Released under the MIT license
+   *
+   * Date: 2026-09-25T13:19:14.309Z
+   */
