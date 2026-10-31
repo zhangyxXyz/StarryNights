@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onlyzyx.com/friend-circle/index.html</loc>
+    
+    <lastmod>2026-10-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/friend-links/index.html</loc>
+    
+    <lastmod>2026-10-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/webstack-links/index.html</loc>
     
     <lastmod>2026-10-10</lastmod>
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/statistics/index.html</loc>
+    <loc>https://onlyzyx.com/status/index.html</loc>
     
     <lastmod>2026-10-10</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/status/index.html</loc>
+    <loc>https://onlyzyx.com/statistics/index.html</loc>
     
     <lastmod>2026-10-10</lastmod>
     
@@ -47,24 +65,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/friend-links/index.html</loc>
-    
-    <lastmod>2026-10-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/friend-circle/index.html</loc>
-    
-    <lastmod>2026-10-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/festival/index.html</loc>
     
     <lastmod>2026-10-10</lastmod>
@@ -83,15 +83,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/waline-emoji/weibo/info.json</loc>
-    
-    <lastmod>2026-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/waline-emoji/twemoji/info.json</loc>
     
     <lastmod>2026-09-20</lastmod>
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/waline-emoji/qq/info.json</loc>
+    <loc>https://onlyzyx.com/waline-emoji/weibo/info.json</loc>
     
     <lastmod>2026-09-20</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/waline-emoji/alus/info.json</loc>
+    <loc>https://onlyzyx.com/waline-emoji/qq/info.json</loc>
     
     <lastmod>2026-09-20</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://onlyzyx.com/waline-emoji/bilibili/info.json</loc>
+    
+    <lastmod>2026-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/waline-emoji/alus/info.json</loc>
     
     <lastmod>2026-09-20</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/39295.html</loc>
+    <loc>https://onlyzyx.com/posts/57917.html</loc>
     
     <lastmod>2023-05-07</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/57917.html</loc>
+    <loc>https://onlyzyx.com/posts/39295.html</loc>
     
     <lastmod>2023-05-07</lastmod>
     
@@ -299,15 +299,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/15344.html</loc>
-    
-    <lastmod>2022-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/posts/32706.html</loc>
     
     <lastmod>2022-06-12</lastmod>
@@ -317,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/13804.html</loc>
+    <loc>https://onlyzyx.com/posts/15344.html</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -326,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/48735.html</loc>
+    <loc>https://onlyzyx.com/posts/13804.html</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -353,18 +344,9 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/57350.html</loc>
+    <loc>https://onlyzyx.com/posts/48735.html</loc>
     
-    <lastmod>2022-06-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/posts/22136.html</loc>
-    
-    <lastmod>2022-06-11</lastmod>
+    <lastmod>2022-06-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -372,6 +354,15 @@
   
   <url>
     <loc>https://onlyzyx.com/posts/61916.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/posts/57350.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -389,7 +380,16 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/61027.html</loc>
+    <loc>https://onlyzyx.com/posts/10850.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/posts/22136.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -399,6 +399,24 @@
   
   <url>
     <loc>https://onlyzyx.com/posts/41700.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/posts/61027.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/posts/38941.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -425,16 +443,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/38941.html</loc>
-    
-    <lastmod>2022-06-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/posts/33328.html</loc>
+    <loc>https://onlyzyx.com/posts/23255.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -452,34 +461,16 @@
   </url>
   
   <url>
+    <loc>https://onlyzyx.com/posts/33328.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/posts/36873.html</loc>
-    
-    <lastmod>2022-06-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/posts/23255.html</loc>
-    
-    <lastmod>2022-06-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/posts/57953.html</loc>
-    
-    <lastmod>2022-06-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/posts/55924.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -497,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/29404.html</loc>
+    <loc>https://onlyzyx.com/posts/55924.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -515,7 +506,34 @@
   </url>
   
   <url>
+    <loc>https://onlyzyx.com/posts/57953.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/posts/29404.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onlyzyx.com/posts/24206.html</loc>
+    
+    <lastmod>2022-06-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/posts/12203.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -542,15 +560,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/12203.html</loc>
-    
-    <lastmod>2022-06-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/posts/21073.html</loc>
     
     <lastmod>2022-06-11</lastmod>
@@ -569,15 +578,6 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/33962.html</loc>
-    
-    <lastmod>2022-06-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://onlyzyx.com/posts/65323.html</loc>
     
     <lastmod>2022-06-11</lastmod>
@@ -587,7 +587,7 @@
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/posts/10850.html</loc>
+    <loc>https://onlyzyx.com/posts/33962.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -679,7 +679,7 @@
 
   <url>
     <loc>https://onlyzyx.com/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -687,112 +687,112 @@
   
   <url>
     <loc>https://onlyzyx.com/tags/C/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/C-%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Hexo/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/tags/ShokaX/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/tags/Shoka/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Secret/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/Lua/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/tags/Lua%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <loc>https://onlyzyx.com/tags/ShokaX/</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/DesignPattern/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/LeetCode/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <loc>https://onlyzyx.com/tags/Shoka/</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <loc>https://onlyzyx.com/tags/Lua/</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/tags/Sublime/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/tags/Sublime%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <loc>https://onlyzyx.com/tags/Lua%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/Latex/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/tags/MathJax/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/LeetCode/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/Sublime/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/tags/Sublime%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -801,91 +801,91 @@
   
   <url>
     <loc>https://onlyzyx.com/categories/Cpp/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/categories/Note/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/categories/Cpp/Cpp%E5%AE%9E%E6%88%98/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/categories/Note/Hexo/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/categories/Lua/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/categories/DesignPattern/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://onlyzyx.com/categories/Note/Hexo/Shoka/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/categories/Windows/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/categories/LeetCode/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/categories/Note/Hexo/ShokaX/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <loc>https://onlyzyx.com/categories/Lua/</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onlyzyx.com/categories/Sublime/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://onlyzyx.com/categories/Note/Latex/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/Note/Hexo/Shoka/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/Note/Hexo/ShokaX/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/LeetCode/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/Sublime/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://onlyzyx.com/categories/Windows/</loc>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
