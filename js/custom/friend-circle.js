@@ -31,6 +31,27 @@
     return el
   }
 
+  // Strings come from source/_data/languages.yml via {% friend_circle_i18n %}.
+  var messages = {}
+  try { messages = JSON.parse(document.getElementById('friend-circle-i18n').textContent) } catch (e) {}
+
+  function t (key, vars) {
+    var text = messages[key]
+    if (text == null) return key
+    return String(text).replace(/\{(\w+)\}/g, function (match, name) {
+      return vars && name in vars ? vars[name] : match
+    })
+  }
+
+  // Same as t(), but placeholders become nodes so numbers can be styled.
+  function tNodes (key, nodes) {
+    var text = messages[key] == null ? key : String(messages[key])
+    return text.split(/(\{\w+\})/).filter(Boolean).map(function (part) {
+      var name = part.slice(1, -1)
+      return part[0] === '{' && nodes && name in nodes ? nodes[name] : part
+    })
+  }
+
   function safeLink (link) {
     return /^https?:\/\//i.test(link || '') ? link : null
   }
@@ -64,14 +85,27 @@
   }
 
   var DAY = 864e5
-  function relativeDate (dateText) {
+  function daysSince (dateText) {
     var date = new Date(dateText + 'T00:00:00+08:00')
-    if (isNaN(date)) return dateText
-    var days = Math.floor((Date.now() - date) / DAY)
-    if (days <= 0) return '今天'
-    if (days === 1) return '昨天'
-    if (days < 30) return days + ' 天前'
+    return isNaN(date) ? NaN : Math.floor((Date.now() - date) / DAY)
+  }
+
+  function relativeDate (dateText) {
+    var days = daysSince(dateText)
+    if (isNaN(days)) return dateText
+    if (days <= 0) return t('date.today')
+    if (days === 1) return t('date.yesterday')
+    if (days < 30) return t('date.days_ago', { n: days })
     return dateText
+  }
+
+  // "2026-11-04 07:26:08" -> "今天 07:26"; older fetches keep their date.
+  function fetchedTime (text) {
+    var match = /^(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})/.exec(text || '')
+    if (!match) return text || ''
+    var days = daysSince(match[1])
+    var day = days <= 0 ? t('date.today') : days === 1 ? t('date.yesterday') : match[1]
+    return day + ' ' + match[2]
   }
 
   function sorted () {
@@ -96,7 +130,7 @@
         avatar(post.avatar, post.author),
         h('span', { class: 'fc-card-author', text: post.author }),
         fresh ? h('span', { class: 'fc-card-new', text: 'NEW' }) : null,
-        h('time', { datetime: date, title: (state.rule === 'created' ? '发布于 ' : '更新于 ') + date, text: relativeDate(date) })
+        h('time', { datetime: date, title: t(state.rule === 'created' ? 'date.published' : 'date.updated', { date: date }), text: relativeDate(date) })
       ])
     ])
   }
@@ -122,12 +156,12 @@
       return (failed[a] ? 1 : 0) - (failed[b] ? 1 : 0) || counts[b] - counts[a]
     })
     if (names.length < 2) return null
-    var strip = h('div', { class: 'fc-friends', role: 'group', 'aria-label': '按友链筛选' }, names.map(function (name) {
+    var strip = h('div', { class: 'fc-friends', role: 'group', 'aria-label': t('filter.label') }, names.map(function (name) {
       var active = state.author === name
       return h('button', {
         type: 'button',
         class: 'fc-chip' + (active ? ' active' : '') + (failed[name] ? ' is-error' : ''),
-        title: failed[name] ? name + '：暂时无法抓取' : null,
+        title: failed[name] ? t('filter.unavailable', { name: name }) : null,
         'aria-pressed': String(active),
         onclick: function () {
           state.author = active ? '' : name
@@ -164,7 +198,7 @@
       var button = h('button', {
         type: 'button',
         class: 'fc-scroll-arrow is-hidden ' + (dir < 0 ? 'is-left' : 'is-right'),
-        'aria-label': dir < 0 ? '向左滚动' : '向右滚动',
+        'aria-label': t(dir < 0 ? 'filter.scroll_left' : 'filter.scroll_right'),
         'aria-hidden': 'true',
         tabindex: '-1',
         onclick: function () {
@@ -297,17 +331,17 @@
         friend.feed
           ? h('a', { class: 'fc-status-feed', href: safeLink(friend.feed), target: '_blank', rel: 'noopener external nofollow', text: 'Feed' })
           : null,
-        h('span', { class: 'fc-status-tag', text: friend.error ? '抓取失败' : '正常' })
+        h('span', { class: 'fc-status-tag', text: t(friend.error ? 'status.failed' : 'status.ok') })
       ]),
       friend.reason
-        ? h('p', { class: 'fc-status-reason', text: friend.reason + (friend.last_ok ? '（最后成功：' + friend.last_ok + '）' : '') })
+        ? h('p', { class: 'fc-status-reason', text: friend.reason + (friend.last_ok ? t('status.last_ok', { date: friend.last_ok }) : '') })
         : null
     ])
   }
 
   function loadStatus (list) {
     var token = adminToken()
-    list.replaceChildren(h('li', { class: 'fc-status-loading', text: '正在获取友链状态…' }))
+    list.replaceChildren(h('li', { class: 'fc-status-loading', text: t('status.loading') }))
     request(token ? 'status' : 'friend', { token: token })
       .then(function (friends) {
         friends.sort(function (a, b) { return a.error - b.error })
@@ -315,7 +349,7 @@
       })
       .catch(function (error) {
         if (error.status === 401) setAdminToken('')
-        list.replaceChildren(h('li', { class: 'fc-status-loading', text: '友链状态获取失败' }))
+        list.replaceChildren(h('li', { class: 'fc-status-loading', text: t('status.load_failed') }))
       })
   }
 
@@ -326,17 +360,17 @@
     function show () {
       var token = adminToken()
       if (!token) {
-        var input = h('input', { type: 'password', class: 'fc-input', placeholder: '管理密码', autocomplete: 'current-password', 'aria-label': '管理密码' })
+        var input = h('input', { type: 'password', class: 'fc-input', placeholder: t('admin.password'), autocomplete: 'current-password', 'aria-label': t('admin.password') })
         var reveal = h('button', {
           type: 'button',
           class: 'fc-reveal',
-          title: '显示密码',
-          'aria-label': '显示密码',
+          title: t('admin.show_password'),
+          'aria-label': t('admin.show_password'),
           'aria-pressed': 'false',
           onclick: function () {
             var visible = input.type === 'password'
             input.type = visible ? 'text' : 'password'
-            reveal.title = visible ? '隐藏密码' : '显示密码'
+            reveal.title = t(visible ? 'admin.hide_password' : 'admin.show_password')
             reveal.setAttribute('aria-label', reveal.title)
             reveal.setAttribute('aria-pressed', String(visible))
             input.focus()
@@ -347,7 +381,7 @@
           onsubmit: function (event) {
             event.preventDefault()
             if (!input.value) return
-            message.textContent = '登录中…'
+            message.textContent = t('admin.logging_in')
             request('status', { token: input.value })
               .then(function () {
                 setAdminToken(input.value)
@@ -361,30 +395,30 @@
           }
         }, [
           h('span', { class: 'fc-password' }, [input, reveal]),
-          h('button', { type: 'submit', class: 'fc-more', text: '登录' })
+          h('button', { type: 'submit', class: 'fc-more', text: t('admin.login') })
         ])
-        section.replaceChildren(h('h3', { text: '管理' }), form, message)
+        section.replaceChildren(h('h3', { text: t('admin.title') }), form, message)
         return
       }
 
       var refresh = h('button', {
         type: 'button',
         class: 'fc-more',
-        text: '立即重新抓取',
+        text: t('admin.refresh'),
         onclick: function () {
           refresh.disabled = true
-          message.textContent = '正在触发抓取…'
+          message.textContent = t('admin.refreshing')
           request('refresh', { method: 'POST', token: token })
             .then(function (body) {
               try { sessionStorage.removeItem(cacheKey) } catch (e) {}
-              message.textContent = body.message || '已触发抓取，几分钟后刷新页面查看。'
+              message.textContent = body.message || t('admin.refreshed')
             })
             .catch(function (error) {
               if (error.status === 401) {
                 setAdminToken('')
                 show()
               }
-              message.textContent = '抓取失败：' + error.message
+              message.textContent = t('admin.refresh_failed', { message: error.message })
             })
             .finally(function () { refresh.disabled = false })
         }
@@ -392,7 +426,7 @@
       var logout = h('button', {
         type: 'button',
         class: 'fc-link-btn',
-        text: '退出登录',
+        text: t('admin.logout'),
         onclick: function () {
           setAdminToken('')
           message.textContent = ''
@@ -400,7 +434,7 @@
           loadStatus(list)
         }
       })
-      section.replaceChildren(h('h3', { text: '管理' }), h('div', { class: 'fc-admin-actions' }, [refresh, logout]), message)
+      section.replaceChildren(h('h3', { text: t('admin.title') }), h('div', { class: 'fc-admin-actions' }, [refresh, logout]), message)
     }
 
     show()
@@ -411,23 +445,23 @@
     var list = h('ul', { class: 'fc-status' })
     var dialog = h('dialog', {
       class: 'fc-dialog',
-      'aria-label': '朋友圈设置',
+      'aria-label': t('settings.title'),
       onclose: function () { dialog.remove() },
       onclick: function (event) { if (event.target === dialog) dialog.close() }
     }, [
       h('div', { class: 'fc-dialog-head' }, [
-        h('strong', { text: '朋友圈设置' }),
-        h('button', { type: 'button', class: 'fc-dialog-close', 'aria-label': '关闭', text: '×', onclick: function () { dialog.close() } })
+        h('strong', { text: t('settings.title') }),
+        h('button', { type: 'button', class: 'fc-dialog-close', 'aria-label': t('settings.close'), text: '×', onclick: function () { dialog.close() } })
       ]),
       h('div', { class: 'fc-dialog-body' }, [
         h('section', null, [
-          h('h3', { text: '文章排序' }),
-          h('div', { class: 'fc-rule', role: 'group', 'aria-label': '排序' }, [
-            ruleButton('created', '最新发布', function () { dialog.close() }),
-            ruleButton('updated', '最近更新', function () { dialog.close() })
+          h('h3', { text: t('settings.sort') }),
+          h('div', { class: 'fc-rule', role: 'group', 'aria-label': t('sort.label') }, [
+            ruleButton('created', t('sort.created'), function () { dialog.close() }),
+            ruleButton('updated', t('sort.updated'), function () { dialog.close() })
           ])
         ]),
-        h('section', null, [h('h3', { text: '友链状态' }), list]),
+        h('section', null, [h('h3', { text: t('settings.status') }), list]),
         adminSection(list)
       ])
     ])
@@ -439,36 +473,51 @@
   function footer (stat) {
     function credit (label, name, href) {
       var external = /^https?:\/\//.test(href)
-      return h('p', null, [label + ' ', h('a', {
+      return h('span', null, [label + ' ', h('a', {
         href: href,
         target: external ? '_blank' : null,
         rel: external ? 'noopener external nofollow' : null,
         text: name
       })])
     }
+    function figure (key, value) {
+      return h('span', { class: 'fc-figure' }, tNodes(key, { n: h('b', { text: value }) }))
+    }
+    var fetched = stat.last_updated_time
     return h('div', { class: 'fc-credits' }, [
-      credit('Powered by', 'FriendCircle', 'https://github.com/zhangyxXyz/hexo-circle-of-friends'),
-      credit('Design by', 'Seiun', '/projects/'),
-      h('p', { class: 'fc-stats' }, [
-        ['订阅', stat.friends_num],
-        ['活跃', stat.active_num],
-        ['日志', stat.article_num]
-      ].map(function (item) {
-        return h('span', null, [item[0], h('b', { text: item[1] })])
-      })),
-      h('p', null, [
-        '更新于：' + stat.last_updated_time,
-        h('button', { type: 'button', class: 'fc-setting-btn', text: '设置', onclick: openSettings })
+      h('div', { class: 'fc-summary' }, [
+        h('p', { class: 'fc-figures' }, [
+          figure('footer.friends', stat.friends_num),
+          figure('footer.active', stat.active_num),
+          figure('footer.posts', stat.article_num)
+        ]),
+        h('div', { class: 'fc-status-line' }, [
+          fetched
+            ? h('p', { class: 'fc-fetched', title: t('footer.fetched_title', { time: fetched }) }, [
+              h('span', { class: 'fc-pulse', 'aria-hidden': 'true' }),
+              t('footer.fetched', { time: fetchedTime(fetched) })
+            ])
+            : null,
+          h('button', {
+            type: 'button',
+            class: 'fc-setting-btn',
+            title: t('settings.open'),
+            'aria-label': t('settings.open'),
+            onclick: openSettings
+          }, [h('i', { class: 'ic i-settings', 'aria-hidden': 'true' })])
+        ]),
+        h('p', { class: 'fc-powered' }, [
+          credit(t('footer.powered_by'), 'FriendCircle', 'https://github.com/zhangyxXyz/hexo-circle-of-friends'),
+          credit(t('footer.design_by'), 'Seiun', '/projects/')
+        ])
       ])
     ])
   }
 
   function emptyText () {
-    if (!state.author) return '朋友们最近都很安静，还没有新文章~'
+    if (!state.author) return t('list.empty')
     var friend = friendByName(state.author)
-    return friend && friend.error
-      ? '暂时无法抓取 ' + state.author + ' 的订阅源，恢复后会重新显示。'
-      : state.author + ' 还没有文章。'
+    return t(friend && friend.error ? 'list.friend_unavailable' : 'list.friend_empty', { name: state.author })
   }
 
   function render () {
@@ -484,7 +533,7 @@
       ? h('button', {
         type: 'button',
         class: 'fc-more',
-        text: '加载更多（' + (posts.length - state.shown) + '）',
+        text: t('list.more', { n: posts.length - state.shown }),
         onclick: function () {
           state.shown += config.pageSize
           render()
@@ -495,15 +544,15 @@
     root.replaceChildren(
       h('div', { class: 'fc-head' }, [
         friendChips(),
-        h('div', { class: 'fc-rule', role: 'group', 'aria-label': '排序' }, [
-          ruleButton('created', '最新发布'),
-          ruleButton('updated', '最近更新')
+        h('div', { class: 'fc-rule', role: 'group', 'aria-label': t('sort.label') }, [
+          ruleButton('created', t('sort.created')),
+          ruleButton('updated', t('sort.updated'))
         ])
       ]),
       body,
       h('div', { class: 'fc-foot' }, [
         more,
-        posts.length && !more ? h('span', { class: 'fc-end', text: '一切皆有尽头！' }) : null
+        posts.length && !more ? h('span', { class: 'fc-end', text: t('list.end') }) : null
       ]),
       footer(stat)
     )
@@ -513,8 +562,8 @@
   function renderError () {
     root.removeAttribute('aria-busy')
     root.replaceChildren(h('div', { class: 'fc-empty' }, [
-      '朋友圈暂时加载失败，',
-      h('button', { type: 'button', class: 'fc-retry', text: '重试', onclick: function () { load(true) } })
+      t('list.load_failed'),
+      h('button', { type: 'button', class: 'fc-retry', text: t('list.retry'), onclick: function () { load(true) } })
     ]))
   }
 
